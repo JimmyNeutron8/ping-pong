@@ -1,0 +1,13 @@
+#game-canvas {
+    width: 360px;
+    height: 480px;
+    background-color: black;
+    display: block;
+    margin: auto;
+}
+
+.score-counter {
+    text-align: center;
+    color: #333;
+    font-weight: lighter;
+}
